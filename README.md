@@ -6,7 +6,7 @@ This is an mood lamp that takes ambient light readings from a database and adjus
 
 ## Description
 Self-explanatory project which feeds off existing real-time data to decide it's brightness level.
-Hardware based off ESP8266 with USB bridge and orange LED with driver.
+Hardware based off ESP8266 with USB bridge and orange LED with driver. Enclosure printed (SLA) from black and clear resin.
 
 ![alt text](https://github.com/edward62740/wifi-lamp/blob/main/Documentation/pcb.png "PCB") 
 </br>
