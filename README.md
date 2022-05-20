@@ -1,6 +1,6 @@
-# Wi-Fi Lamp
+# WMNS Lamp
 
-This is an mood lamp that takes ambient light readings from a database and adjusts its brightness and state accordingly.
+This is an mood lamp that takes ambient light readings from a database and adjusts its brightness and state accordingly. Extention of [WMNS](https://github.com/edward62740/Wireless-Mesh-Network-System).
 
 ![alt text](https://github.com/edward62740/wifi-lamp/blob/main/Documentation/lamp.png "Lamps") ![alt text](https://github.com/edward62740/wifi-lamp/blob/main/Documentation/lampgrp.png "Lamps") 
 
